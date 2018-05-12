@@ -1,0 +1,28 @@
+_repo: Jerusalem_15083
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15083-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haan, Jacob Israël de
+    alias: Han, Jacob Israel den
+    birthdate: 1881
+    deathdate: 1924
+    gutenberg_agent_id: '5831'
+    url: http://www.gutenberg.org/2009/agents/5831
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Isra%C3%ABl_de_Haan
+description: ''
+gutenberg_issued: '2005-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15083'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jerusalem -- Description and travel'
+title: Jerusalem
+url: http://www.gutenberg.org/ebooks/15083
